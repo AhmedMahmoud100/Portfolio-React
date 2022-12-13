@@ -48,11 +48,10 @@ export const content = {
     title: "Front-end Developer",
     firstName: "Ahmed",
     LastName: "Mahmoud",
-    btnText: "Hire Me",
     image: Hero_person,
     hero_content: [
       {
-        text: "I am a self taught developer who is passionate about web development.",
+        text: "I am a Front end Developer who is passionate about software engineering.",
       },
       {
         text: "I like to craft solid and scalable frontend products with great user experience.",
@@ -140,7 +139,7 @@ export const content = {
       {
         title: "PhotoShop",
         image: project2,
-        link : 'https://online-photo-shop0.pages.dev/'
+        link : 'https://online-photo-shop.pages.dev/'
       },
       {
         title: "Crypto Hunter",
@@ -150,7 +149,7 @@ export const content = {
       {
         title: "Fitness Page",
         image: project4,
-        link : 'https://fitness-page0.pages.dev/'
+        link : 'https://fitness-page.pages.dev/'
       },
       {
         title: "Admin Dashboard",

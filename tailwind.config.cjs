@@ -26,7 +26,7 @@ module.exports = {
       dropShadow: {
         primary: "-5px 35px 40px rgba(223, 229, 236, 0.9)",
       },gridTemplateColumns : {
-        'autoFit' : 'repeat(auto-fit,minmax(250px,1fr))'
+        'autoFit' : 'repeat(auto-fit,minmax(250px,300px))'
       }
     },
   },

@@ -19,7 +19,7 @@ const Projects = () => {
           </h4>
           <br />
         </div>
-        <div className="custom-grid grid grid-cols-autoFit gap-[25px] justify-center mx-0 lg:mx-[100px]  ">
+        <div className=" grid grid-cols-autoFit gap-[25px] justify-center mx-0 xl:mx-[100px]  ">
           {Projects.project_content.map((content, i) => {
             return <div
               key={i}

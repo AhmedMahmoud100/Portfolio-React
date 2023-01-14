@@ -1,36 +1,45 @@
-# react_portfolio_2
-#Vite + React + tailwind
+# My-Portfolio
 
-+ npm i
-+ npm run dev
+## Description
 
-# You Learn:
-+ react js hooks
-+ folder structure
-+ tailwind css
-+ swiper js
-+ react icons
-+ react js packages (ex:react-modal)
-+ email js
-+ aos scroll animation
-+ and more....
+Built a personal portfolio where you can know more about me and to highlights
+and showcases my last projects and accomplishments .
 
-# live preview link
-https://codeaprogram-portfolio.web.app/
+## Demo
 
-# Startup repository link
-https://github.com/Sridhar-C-25/React_portfolio_2_startup
+https://portfolio-1y8.pages.dev/
 
-# packages:
-+ tailwind css - https://tailwindcss.com/docs/installation
-+ vite js - https://vitejs.dev/guide/
-+ swiper js - https://swiperjs.com/get-started
-+ email js - https://www.emailjs.com/docs/
-+ Aos (animation) - https://michalsnik.github.io/aos/
-+ react modal - https://www.npmjs.com/package/react-modal
-+ react-hot-toast - https://react-hot-toast.com/docs
-+ react icons - https://react-icons.github.io/react-icons/
 
-![MacBook Air - 2 (3)](https://user-images.githubusercontent.com/75136330/203812467-8b00176d-9d31-4c09-86c0-8b82b8c661eb.png)
-![127 0 0 1_5173_ (1)](https://user-images.githubusercontent.com/75136330/203812531-baeb4957-5c7d-4222-a07a-2805b278bdbf.png)
+## Built with
+
+- ReactJS
+- javaScript
+- react-hot-toast 
+- EmailJs
+
+## Getting Started
+
+This project was created with [Vite](https://vitejs.dev/).
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm install`
+
+installing the project dependencies .
+
+### `npm run dev`
+
+Runs the app in the development mode.
+
+### `npm run build`
+
+Builds the app for production to the `dist` folder.
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.
+Your app is ready to be deployed!
+
+See the section about [deployment](https://vitejs.dev/guide/static-deploy.html) for more information.
 
